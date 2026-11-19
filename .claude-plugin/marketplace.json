@@ -1,0 +1,17 @@
+{
+  "name": "ai-engineering-first-steps",
+  "description": "First steps for building an app with Claude Code: a guided interview that turns your idea into a documented set of product and architecture decisions.",
+  "owner": {
+    "name": "Samuel Horník",
+    "url": "https://github.com/samuel-hornik"
+  },
+  "plugins": [
+    {
+      "name": "first-steps",
+      "source": "./",
+      "description": "Interview → suggested tech baseline → your decisions → first-decisions.md, referenced from CLAUDE.md.",
+      "version": "1.0.0",
+      "category": "productivity"
+    }
+  ]
+}

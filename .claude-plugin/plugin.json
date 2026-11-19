@@ -1,0 +1,13 @@
+{
+  "name": "first-steps",
+  "description": "Start a new app with clear decisions. /first-steps interviews you about the app, proposes a full technical baseline, lets you confirm each choice and writes first-decisions.md as the reference Claude follows from then on.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Samuel Horník",
+    "url": "https://github.com/samuel-hornik"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/samuel-hornik/ai-engineering-first-steps",
+  "repository": "https://github.com/samuel-hornik/ai-engineering-first-steps",
+  "keywords": ["planning", "architecture", "system-design", "kickoff", "interview", "decisions", "claude-md"]
+}
